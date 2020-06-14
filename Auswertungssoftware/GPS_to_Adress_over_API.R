@@ -1,4 +1,4 @@
-install.packages("opencage")
+install.packages("juliusgh/opencage")
 library("opencage")
 apikey=''
 input <- read.csv(file='D:/GPS.csv')
