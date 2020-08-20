@@ -1,0 +1,2 @@
+Am Sonntag den 16. August 2020 haben wir vom Kesselnetz mit unseren ersten Radmesser-Prototypen eine gemeinsame Testfahrt in Stuttgart durchgeführt.
+Die aufgezeichneten Überholvorgänge sind in diesem Ordner abgelegt.

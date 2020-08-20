@@ -1,0 +1,114 @@
+"","Number","Distance","LAT","LON","speed","date","time","country","state","citytown","postcode","roadname","roadtype","oneway","maxspeed","speedin","lanes","bikespeed"
+"1",1,191.046,48.7829,9.17335,0,160820,90949,"Deutschland","Baden-Württemberg","Stuttgart","70174","Kriegsbergstraße","secondary","yes","40","km/h","2",19.0088
+"2",2,206.58,48.7829,9.17335,0,160820,90949,"Deutschland","Baden-Württemberg","Stuttgart","70174","Kriegsbergstraße","secondary","yes","40","km/h","2",19.0088
+"3",3,106.421,48.7832,9.16611,0,160820,91159,"Deutschland","Baden-Württemberg","Stuttgart","70174","Hegelstraße","tertiary",NA,"40","km/h",NA,0.314838
+"4",4,222.752,48.7829,9.16623,0,160820,91426,"Deutschland","Baden-Württemberg","Stuttgart","70174","Hoppenlaustraße","residential","yes","30","km/h",NA,8.64509
+"5",5,177.499,48.7722,9.16523,0,160820,93911,"Deutschland","Baden-Württemberg","Stuttgart","70178","Hermannstraße","residential","yes","30","km/h",NA,13.6732
+"6",6,204.428,48.7722,9.16523,0,160820,93911,"Deutschland","Baden-Württemberg","Stuttgart","70178","Hermannstraße","residential","yes","30","km/h",NA,13.6732
+"7",7,218.394,48.7728,9.16695,0,160820,93945,"Deutschland","Baden-Württemberg","Stuttgart","70178","Rotebühlstraße","secondary",NA,"40","km/h","5",8.88214
+"8",8,203.855,48.7784,9.17557,0,160820,94339,"Deutschland","Baden-Württemberg","Stuttgart","70174","Theodor-Heuss-Straße","primary","yes","40","km/h","2",14.3214
+"9",9,189.6,48.7771,9.18176,0,160820,95029,"Deutschland","Baden-Württemberg","Stuttgart","70173","Richard-von-Weizsäcker-Planie","residential","yes","50","km/h",NA,9.22661
+"10",10,140.304,48.7741,9.17901,0,160820,95252,"Deutschland","Baden-Württemberg","Stuttgart","70173","Eberhardstraße","residential",NA,"30","km/h",NA,13.5751
+"11",11,199.59,48.7715,9.17395,0,160820,95535,"Deutschland","Baden-Württemberg","Stuttgart","70178","Tübinger Straße","residential",NA,"20","km/h",NA,8.53767
+"12",12,125.48,48.7712,9.17328,0,160820,95549,"Deutschland","Baden-Württemberg","Stuttgart","70178","Tübinger Straße",NA,NA,"20","km/h",NA,3.1669
+"13",13,173.096,48.7712,9.17328,0,160820,95549,"Deutschland","Baden-Württemberg","Stuttgart","70178","Tübinger Straße",NA,NA,"20","km/h",NA,3.1669
+"14",14,170.7,48.7707,9.17281,0,160820,95607,"Deutschland","Baden-Württemberg","Stuttgart","70178","Tübinger Straße","residential",NA,"30","km/h","3",11.5046
+"15",15,237.064,48.7747,9.17254,0,160820,101402,"Deutschland","Baden-Württemberg","Stuttgart","70173","Tübinger Straße",NA,NA,"30","km/h",NA,5.65412
+"16",16,230.274,48.7827,9.17089,0,160820,102034,"Deutschland","Baden-Württemberg","Stuttgart","70174","Herdweg","tertiary","yes","40","km/h","2",11.5509
+"17",17,145.511,48.7838,9.16951,0,160820,102121,"Deutschland","Baden-Württemberg","Stuttgart","70174","Herdweg","tertiary",NA,"40","km/h","3",6.93755
+"18",18,219.015,48.7837,9.17114,0,160820,102808,"Deutschland","Baden-Württemberg","Stuttgart","70174","Herdweg","tertiary","yes","40","km/h","1",13.0028
+"19",19,98.0368,48.7847,9.17381,0,160820,104116,"Deutschland","Baden-Württemberg","Stuttgart","70174","Keplerstraße","residential",NA,"20","km/h","1",0.275946
+"20",20,187.692,48.7827,9.17317,0,160820,90951,"Deutschland","Baden-Württemberg","Stuttgart","70174","Kriegsbergstraße","secondary","yes","40","km/h","3",16.5364
+"21",21,87.789,48.7733,9.17054,0,160820,92558,"Deutschland","Baden-Württemberg","Stuttgart","70178","Paulinenstraße","primary","yes","40","km/h","4",0.761168
+"22",22,145.395,48.7736,9.16951,0,160820,92804,"Deutschland","Baden-Württemberg","Stuttgart","70178","Rotebühlstraße","secondary","yes","40","km/h","2",13.2936
+"23",23,95.9928,48.7741,9.16611,0,160820,92921,"Deutschland","Baden-Württemberg","Stuttgart","70176","Gutenbergstraße","residential","yes","30","km/h","1",11.9268
+"24",24,128.685,48.7735,9.16437,0,160820,93000,"Deutschland","Baden-Württemberg","Stuttgart","70176","Gutenbergstraße","residential",NA,"30","km/h","1",11.236
+"25",25,128.237,48.7708,9.15625,0,160820,93355,"Deutschland","Baden-Württemberg","Stuttgart","70197","Rötestraße","residential",NA,"30","km/h","1",8.18394
+"26",26,81.8745,48.7701,9.15676,0,160820,93448,"Deutschland","Baden-Württemberg","Stuttgart","70197","Rotebühlstraße","secondary",NA,"40","km/h","3",2.73539
+"27",27,169.799,48.7721,9.1632,0,160820,93851,"Deutschland","Baden-Württemberg","Stuttgart","70176","Senefelderstraße","residential",NA,"30","km/h","1",17.0827
+"28",28,241.524,48.7786,9.17507,0,160820,94352,"Deutschland","Baden-Württemberg","Stuttgart","70174","Willi-Bleicher-Straße","primary","yes","50","km/h","1",15.4789
+"29",29,198.415,48.779,9.18024,0,160820,94838,"Deutschland","Baden-Württemberg","Stuttgart","70173","Bolzstraße","residential",NA,"30","km/h","1",8.44137
+"30",30,135.413,48.7746,9.18053,0,160820,95226,"Deutschland","Baden-Württemberg","Stuttgart","70173","Marktstraße","residential",NA,"30","km/h","1",1.52048
+"31",31,122.916,48.7731,9.17484,0,160820,95446,"Deutschland","Baden-Württemberg","Stuttgart","70178","Tübinger Straße","residential",NA,"20","km/h","1",4.35958
+"32",32,200.697,48.7731,9.17484,0,160820,95446,"Deutschland","Baden-Württemberg","Stuttgart","70178","Tübinger Straße","residential",NA,"20","km/h","1",4.35958
+"33",33,166.159,48.7719,9.17386,0,160820,101152,"Deutschland","Baden-Württemberg","Stuttgart","70178","Sophienstraße","residential","yes","30","km/h","1",11.4712
+"34",34,151.723,48.7734,9.17465,0,160820,101253,"Deutschland","Baden-Württemberg","Stuttgart","70173","Sophienstraße",NA,NA,"30","km/h","1",7.04311
+"35",35,125.381,48.7745,9.17268,0,160820,101351,"Deutschland","Baden-Württemberg","Stuttgart","70173","Rotebühlplatz","residential",NA,"40","km/h","4",3.02985
+"36",36,160.912,48.7831,9.17024,0,160820,102054,"Deutschland","Baden-Württemberg","Stuttgart","70174","Herdweg","tertiary",NA,"40","km/h","2",13.3436
+"37",37,85.3993,48.7834,9.17042,0,160820,102755,"Deutschland","Baden-Württemberg","Stuttgart","70174","Herdweg","tertiary",NA,"40","km/h","2",7.99318
+"38",38,112.258,48.7844,9.17391,0,160820,104129,"Deutschland","Baden-Württemberg","Stuttgart","70174","Keplerstraße","residential",NA,"20","km/h","1",0.524113
+"39",39,163.254,48.7843,9.17377,0,160820,105922,"Deutschland","Baden-Württemberg","Stuttgart","70174","Jägerstraße","residential",NA,"30","km/h","1",2.50759
+"40",40,104.279,48.7806,9.17409,0,160820,110230,"Deutschland","Baden-Württemberg","Stuttgart","70174","Jägerstraße",NA,NA,"30","km/h","1",19.2718
+"41",41,136.602,48.7797,9.17422,0,160820,110315,"Deutschland","Baden-Württemberg","Stuttgart","70174","Schloßstraße","secondary","yes","40","km/h","2",1.81125
+"42",42,183.176,48.7774,9.17409,0,160820,110355,"Deutschland","Baden-Württemberg","Stuttgart","70174","Theodor-Heuss-Straße","primary","yes","40","km/h","1",23.9147
+"43",43,189.262,48.7738,9.17397,0,160820,110529,"Deutschland","Baden-Württemberg","Stuttgart","70173","Theodor-Heuss-Straße",NA,NA,"40","km/h","1",26.8242
+"44",44,173.723,48.7637,9.16606,0,160820,110905,"Deutschland","Baden-Württemberg","Stuttgart","70178","Möhringer Straße","living_street",NA,"40","km/h","1",16.4846
+"45",45,194.357,48.7625,9.162,0,160820,110958,"Deutschland","Baden-Württemberg","Stuttgart","70178","Möhringer Straße","residential",NA,"30","km/h","1",23.1239
+"46",46,89.0395,48.7619,9.16016,0,160820,111132,"Deutschland","Baden-Württemberg","Stuttgart","70199","Möhringer Straße",NA,NA,"30","km/h","1",0.246315
+"47",47,123.26,48.7592,9.15219,0,160820,111345,"Deutschland","Baden-Württemberg","Stuttgart","70199","Möhringer Straße","tertiary",NA,"40","km/h","2",0.201867
+"48",48,149.841,48.7458,9.1349,0,160820,111948,"Deutschland","Baden-Württemberg","Stuttgart","70569","Böblinger Straße","secondary","yes","50","km/h","2",17.8624
+"49",49,168.811,48.7458,9.1349,0,160820,111948,"Deutschland","Baden-Württemberg","Stuttgart","70569","Böblinger Straße","secondary","yes","50","km/h","2",17.8624
+"50",50,144.542,48.7458,9.1349,0,160820,111948,"Deutschland","Baden-Württemberg","Stuttgart","70569","Böblinger Straße","secondary","yes","50","km/h","2",17.8624
+"51",51,208.708,48.7428,9.13258,0,160820,112107,"Deutschland","Baden-Württemberg","Stuttgart","70569","Böblinger Straße","secondary","yes","50","km/h","1",14.0436
+"52",52,180.863,48.7412,9.1305,0,160820,112155,"Deutschland","Baden-Württemberg","Stuttgart","70569","Böblinger Straße","secondary","yes","50","km/h","1",17.3272
+"53",53,203.498,48.736,9.12694,0,160820,112402,"Deutschland","Baden-Württemberg","Stuttgart","70563","Böblinger Straße","secondary","yes","50","km/h","1",19.0922
+"54",54,186.053,48.7359,9.12628,0,160820,112417,"Deutschland","Baden-Württemberg","Stuttgart","70563","Böblinger Straße","secondary","yes","50","km/h","1",13.9399
+"55",55,193.23,48.7359,9.12628,0,160820,112417,"Deutschland","Baden-Württemberg","Stuttgart","70563","Böblinger Straße","secondary","yes","50","km/h","1",13.9399
+"56",56,225.91,48.7359,9.12628,0,160820,112417,"Deutschland","Baden-Württemberg","Stuttgart","70563","Böblinger Straße","secondary","yes","50","km/h","1",13.9399
+"57",57,129.329,48.7342,9.12049,0,160820,112703,"Deutschland","Baden-Württemberg","Stuttgart","70563","Böblinger Straße","secondary","yes","50","km/h","1",7.89503
+"58",58,100.231,48.7328,9.12323,0,160820,112834,"Deutschland","Baden-Württemberg","Stuttgart","70563","Nord-Süd-Straße","secondary","no","50","km/h","2",14.9974
+"59",59,147.638,48.7303,9.13129,0,160820,113113,"Deutschland","Baden-Württemberg","Stuttgart","70567","Nord-Süd-Straße","secondary",NA,"50","km/h","4",24.963
+"60",60,133.207,48.6935,9.16019,0,160820,114716,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Friedrich-List-Straße","secondary","no","50","km/h","1",9.70257
+"61",61,215.264,48.691,9.16088,0,160820,114814,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Leinfelder Straße","secondary",NA,"50","km/h","1",18.7218
+"62",62,209.05,48.6906,9.17107,0,160820,154221,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Plieninger Straße","secondary","no","50","km/h","1",25.087
+"63",63,138.552,48.6903,9.1765,0,160820,154330,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","L 1192","secondary",NA,"50","km/h","1",21.4868
+"64",64,167.604,48.6905,9.17679,0,160820,154334,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","L 1192","secondary",NA,"50","km/h","1",26.7427
+"65",65,139.185,48.6982,9.19167,0,160820,154659,"Deutschland","Baden-Württemberg","Stuttgart","70599","K 9516","tertiary",NA,"60","km/h","2",31.6727
+"66",66,172.209,48.6993,9.19775,0,160820,154752,"Deutschland","Baden-Württemberg","Stuttgart","70599","K 9516","tertiary",NA,"60","km/h","2",29.5281
+"67",67,152.872,48.7075,9.20495,0,160820,155142,"Deutschland","Baden-Württemberg","Stuttgart","70599","Filderhauptstraße","secondary",NA,"50","km/h","2",11.036
+"68",68,158.16,48.7094,9.2045,0,160820,155238,"Deutschland","Baden-Württemberg","Stuttgart","70599","Filderhauptstraße","secondary",NA,"50","km/h","2",14.5826
+"69",69,155.215,48.7161,9.20663,0,160820,155713,"Deutschland","Baden-Württemberg","Stuttgart","70599","Welfenstraße","tertiary",NA,"50","km/h","1",14.5955
+"70",70,157.639,48.7327,9.20167,0,160820,160727,"Deutschland","Baden-Württemberg","Stuttgart","70599","Schönbergstraße","residential",NA,"30","km/h","1",16.7957
+"71",71,126.822,48.7327,9.20167,0,160820,160727,"Deutschland","Baden-Württemberg","Stuttgart","70599","Schönbergstraße","residential",NA,"30","km/h","1",16.7957
+"72",72,165.025,48.7368,9.1982,0,160820,160942,"Deutschland","Baden-Württemberg","Stuttgart","70599","Königsträßle",NA,NA,"40","km/h","1",17.7606
+"73",73,168.706,48.7471,9.18876,0,160820,161419,"Deutschland","Baden-Württemberg","Stuttgart","70597","Königsträßle",NA,NA,"40","km/h","1",20.4386
+"74",74,167.069,48.7471,9.18876,0,160820,161419,"Deutschland","Baden-Württemberg","Stuttgart","70597","Königsträßle",NA,NA,"40","km/h","1",20.4386
+"75",75,178.889,48.7279,9.13789,0,160820,163048,"Deutschland","Baden-Württemberg","Stuttgart","70567","Vaihinger Straße","secondary",NA,"50","km/h","2",21.1423
+"76",76,183.06,48.7282,9.13506,0,160820,163123,"Deutschland","Baden-Württemberg","Stuttgart","70567","Vaihinger Straße","secondary",NA,"50","km/h","4",19.457
+"77",77,194.439,48.73,9.12186,0,160820,163414,"Deutschland","Baden-Württemberg","Stuttgart","70563","Möhringer Landstraße","secondary",NA,"50","km/h","2",22.2239
+"78",78,236.66,48.7298,9.11547,0,160820,163533,"Deutschland","Baden-Württemberg","Stuttgart","70563","Möhringer Landstraße","secondary",NA,"50","km/h","3",20.7386
+"79",79,142.505,48.7303,9.11257,0,160820,163645,"Deutschland","Baden-Württemberg","Stuttgart","70563","Haugstraße","residential",NA,"30","km/h","1",19.4292
+"80",80,188.884,48.7245,9.10685,0,160820,163937,"Deutschland","Baden-Württemberg","Stuttgart","70563","Robert-Koch-Straße","secondary",NA,"50","km/h","1",27.2372
+"81",81,169.266,48.7245,9.10685,0,160820,163937,"Deutschland","Baden-Württemberg","Stuttgart","70563","Robert-Koch-Straße","secondary",NA,"50","km/h","1",27.2372
+"82",82,176.264,48.7056,9.13089,0,160820,164956,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Raiffeisenstraße","track",NA,"50","km/h","1",16.3605
+"83",83,198.027,48.7055,9.13099,0,160820,164958,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Schulstraße","track",NA,"50","km/h","1",17.868
+"84",84,152.566,48.7041,9.13791,0,160820,165131,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Schulstraße","residential",NA,"30","km/h","1",20.4219
+"85",85,144.97,48.6977,9.14149,0,160820,165359,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Bahnhofstraße","tertiary","no","50","km/h","1",14.4122
+"86",86,181.554,48.688,9.15648,0,160820,170144,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Schimmelwiesenstraße","residential",NA,"30","km/h","1",15.2641
+"87",87,165.966,48.6879,9.16694,0,160820,170615,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Hauptstraße","secondary",NA,"40","km/h","2",20.62
+"88",88,189.994,48.6887,9.16713,0,160820,170631,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Bernhäuser Straße","residential",NA,"20","km/h","1",24.0518
+"89",89,225.914,48.7505,9.1711,0,160820,82758,"Deutschland","Baden-Württemberg","Stuttgart","70597","Obere Weinsteige","primary",NA,"40","km/h","4",51.2519
+"90",90,228.329,48.7656,9.17053,0,160820,83737,"Deutschland","Baden-Württemberg","Stuttgart","70178","Hauptstätter Straße","primary",NA,"40","km/h","4",26.6038
+"91",91,213.019,48.7828,9.17376,0,160820,90942,"Deutschland","Baden-Württemberg","Stuttgart","70174","Kriegsbergstraße","secondary","yes","40","km/h","3",17.9587
+"92",92,163.441,48.7825,9.16683,0,160820,91451,"Deutschland","Baden-Württemberg","Stuttgart","70174","Hoppenlaustraße","residential","yes","30","km/h","1",4.46885
+"93",93,105.671,48.7738,9.17017,0,160820,92731,"Deutschland","Baden-Württemberg","Stuttgart","70178","Rotebühlstraße","secondary","yes","40","km/h","2",0.0444477
+"94",94,163.037,48.7721,9.15967,0,160820,93147,"Deutschland","Baden-Württemberg","Stuttgart","70176","Gutenbergstraße","residential",NA,"30","km/h","1",7.9617
+"95",95,109.033,48.7781,9.17522,0,160820,94335,"Deutschland","Baden-Württemberg","Stuttgart","70174","Theodor-Heuss-Straße","primary","yes","40","km/h","2",7.32462
+"96",96,133.295,48.7819,9.1792,0,160820,94620,"Deutschland","Baden-Württemberg","Stuttgart","70173","Lautenschlagerstraße","residential","no","20","km/h","1",7.41351
+"97",97,120.655,48.7746,9.18032,0,160820,95231,"Deutschland","Baden-Württemberg","Stuttgart","70173","Marktstraße","residential",NA,"30","km/h","1",3.13357
+"98",98,150.14,48.7746,9.18032,0,160820,95231,"Deutschland","Baden-Württemberg","Stuttgart","70173","Marktstraße","residential",NA,"30","km/h","1",3.13357
+"99",99,170.893,48.7712,9.17362,0,160820,95545,"Deutschland","Baden-Württemberg","Stuttgart","70178","Tübinger Straße","residential",NA,"20","km/h","1",10.3193
+"100",100,147.818,48.771,9.17289,0,160820,95607,"Deutschland","Baden-Württemberg","Stuttgart","70178","Paulinenbrücke","primary","yes","40","km/h","3",8.20246
+"101",101,170.734,48.7635,9.1633,0,160820,100107,"Deutschland","Baden-Württemberg","Stuttgart","70178","Böblinger Straße","residential","yes","50","km/h","1",7.33943
+"102",102,174.457,48.7734,9.17475,0,160820,101251,"Deutschland","Baden-Württemberg","Stuttgart","70173","Böblinger Straße",NA,NA,"50","km/h","1",5.85414
+"103",103,170.61,48.7823,9.1695,0,160820,101925,"Deutschland","Baden-Württemberg","Stuttgart","70174","Hegelstraße","tertiary",NA,"40","km/h","4",6.05786
+"104",104,155.718,48.7681,9.17233,0,160820,110719,"Deutschland","Baden-Württemberg","Stuttgart","70178","Hauptstätter Straße","primary",NA,"40","km/h","5",20.0311
+"105",105,142.524,48.7457,9.13593,0,160820,111929,"Deutschland","Baden-Württemberg","Stuttgart","70597","Fuchsweg","track",NA,"40","km/h","1",32.7339
+"106",106,137.428,48.7449,9.136,0,160820,111951,"Deutschland","Baden-Württemberg",NA,"70597","Fuchsweg","track",NA,"40","km/h","1",25.6575
+"107",107,140.505,48.7349,9.128,0,160820,112410,"Deutschland","Baden-Württemberg","Stuttgart","70563","Halde","track",NA,"40","km/h","1",36.0805
+"108",108,136.262,48.737,9.12778,0,160820,112454,"Deutschland","Baden-Württemberg","Stuttgart","70569","Böblinger Straße","secondary","yes","50","km/h","1",17.2791
+"109",109,134.509,48.7333,9.13076,0,160820,112954,"Deutschland","Baden-Württemberg","Stuttgart","70563","Nord-Süd-Straße","secondary","no","50","km/h","2",25.1796
+"110",110,135.784,48.7244,9.13596,0,160820,113336,"Deutschland","Baden-Württemberg","Stuttgart","70567","Rudolf-Weisser-Weg","residential",NA,"30","km/h","1",18.7143
+"111",111,141.856,48.7015,9.14901,0,160820,114233,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Maybachstraße","secondary",NA,"50","km/h","3",16.3734
+"112",112,223.15,48.6907,9.16267,0,160820,114824,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Michael-Ott-Straße","residential",NA,"30","km/h","1",14.6881
+"113",113,128.932,48.6889,9.16471,0,160820,115144,"Deutschland","Baden-Württemberg","Leinfelden-Echterdingen","70771","Obergasse","living_street",NA,"30","km/h","1",12.1731
