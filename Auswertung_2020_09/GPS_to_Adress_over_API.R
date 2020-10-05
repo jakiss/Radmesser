@@ -1,5 +1,5 @@
 library("opencage")
-apikey<-'2aaeb124fdad4a28ad0fff7801c3bc61'
+apikey<-''
 input <- read.csv(file='D:/6. Semester/Studienarbeit/Gesamtdate/Gesamt_2020_09_05/erkannte3.csv')
 output <- data.frame(Number=c(), Distance=c(), LAT=c(), LON=c(), speed=c(), date=c(), time=c(), country=c(), state=c(), citytown=c(), postcode=c(), roadname=c(), roadtype=c(), oneway=c(), maxspeed=c(), speedin=c(), lanes=c(), bikespeed=c() )
 lines<-dim(input)
