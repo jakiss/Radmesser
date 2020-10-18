@@ -1,0 +1,7 @@
+"ID";"Bezeichner";"Gehäuse";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"Drot2,Dgrun1";"LED_D5.0mm";2;"LED";;;
+2;"GPS1";"GY-GPS6MV";1;"GY-GPS6MV2";;;
+3;"J1";"PinSocket_2x20_P2.54mm_Vertical";1;"Raspberry_Pi";;;
+4;"R1,R3,R5,R6";"R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal";4;"1k";;;
+5;"R2,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal";2;"470";;;
+6;"Uhinten2,Uvorne1";"XCVR_HC-SR04";2;"HC-SR04";;;
